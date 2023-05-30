@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "bj6Vi8ruFn8D8c163B0XRAiW3d7tgN9+MOVHKEyNp+giDPsDiLC+EAIS1RBBaHt/atzaMoqP2aqtg4oD6rO7sA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\minhq\\Downloads\\Bao\\SE104_Proj\\PhongMachTu\\PhongMachTu.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\minhq\\.nuget\\packages\\materialdesigncolors\\2.1.4\\materialdesigncolors.2.1.4.nupkg.sha512",
+    "C:\\Users\\minhq\\.nuget\\packages\\materialdesignthemes\\4.9.0\\materialdesignthemes.4.9.0.nupkg.sha512",
+    "C:\\Users\\minhq\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}

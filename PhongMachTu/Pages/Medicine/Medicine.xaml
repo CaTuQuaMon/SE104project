@@ -1,0 +1,24 @@
+﻿<Page x:Class="PhongMachTu.Pages.billingPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PhongMachTu.Pages"
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      mc:Ignorable="d" 
+      d:DesignHeight="1024" d:DesignWidth="1211"
+      Title="billingPage">
+
+    <Grid Background="#F1F8FF">
+        <TextBlock Margin="56 41 842 944" Foreground="#2672E7" FontFamily="{StaticResource font}" FontSize="35" Text="Inventory"></TextBlock>
+        <TextBlock Margin="897 47 85 952 " Foreground="#565772" FontFamily="{StaticResource font}" FontSize="23" Text="Nguyen Thi Cam Tu"></TextBlock>
+        <Image Source="/Resources/Ellipse 1.png" Height="48" Width="48" Margin="834,47,329,929"  />
+        <TextBlock Margin="897,80,234,929" Foreground="#565772" FontFamily="{StaticResource font}" FontSize="14" Text="Admin"></TextBlock>
+        <Image Source="/Resources/Rectangle 7.png" Margin="-249,102,-4,813"  />
+        <TextBlock Margin="150,146,842,842" Foreground="#565772" FontFamily="{StaticResource font}" FontSize="27" Text="Aspirin 300mg"></TextBlock>
+        <TextBlock Margin="50 254 1057 753" Foreground="#969795" FontFamily="{StaticResource font}" FontSize="20" Text="10234567"></TextBlock>
+        <Image Source="/Resources/Rectangle 15.png" Margin="50 285 861 395"  />
+
+    </Grid>
+
+</Page>
